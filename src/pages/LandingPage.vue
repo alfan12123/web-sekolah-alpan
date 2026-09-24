@@ -4,7 +4,7 @@
 
       <h1>Alfan Shop</h1>
       <p>
-        Belanja Sepatu futsa dengan mudah
+        Belanja Sepatu futsal dengan mudah
         cepat dan murah.
       </p>
       
@@ -48,7 +48,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(149deg, #fdfdfd,#ff0909);
+  background: linear-gradient(149deg, #fdfdfd,#7dddf5);
   border-radius: 10px;
 }
 
@@ -93,12 +93,12 @@ button:hover {
 }
 
 .card {
-  background-color: #e92727;
+  background-color: #7dddf5;
   border-radius: 10px;
   padding: 20px;
   width: 300px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   text-align: center;
+  box-shadow: 0 4px 6px rgb(97, 237, 255);
  transition: transform 0.3s ease, box-shadow 0.3s ease;
  
 }

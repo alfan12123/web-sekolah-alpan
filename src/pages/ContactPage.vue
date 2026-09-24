@@ -18,7 +18,7 @@
           <span>📍</span>
           <div>
             <h3>Alamat</h3>
-            <p>Jl. mangga No. 123</p>
+            <p>parken blok a</p>
           </div>
         </div>
 
@@ -26,7 +26,7 @@
           <span>📞</span>
           <div>
             <h3>Telepon</h3>
-            <p>+62 888 1111 2222</p>
+            <p>+62 831-3709- 1012</p>
           </div>
         </div>
 

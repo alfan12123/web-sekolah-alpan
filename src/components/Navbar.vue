@@ -3,9 +3,9 @@
     <h1>alfan - Onlineshop <span style="font-size: 40px;">🛒</span></h1>
 
  <hr />
-    <RouterLink to="/">Landing</RouterLink>|
-    <RouterLink to="/product">Product</RouterLink> |
-    <RouterLink to="/about">About</RouterLink>|
+    <RouterLink to="/">Landing</RouterLink>   |
+    <RouterLink to="/product">Product</RouterLink>   |
+    <RouterLink to="/about">About</RouterLink>   |
     <RouterLink to="/contact">Contact</RouterLink> 
     </nav>
 
@@ -17,9 +17,10 @@ nav {
   display: flex;
   align-items: center;
   padding: 1rem;
-  background-color: #ff0000;
+  background-color: #ffffff;
   color: var(--color-text);
   border-radius: 10px;
+  gap: 5px;
 } 
 .atas{
 background-color: #0d3b97;
