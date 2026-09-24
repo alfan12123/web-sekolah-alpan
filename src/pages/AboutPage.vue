@@ -41,22 +41,19 @@
 
 .teks,
 .gambar {
-  flex: 1;
   height: 200px;
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 30px;
   margin-bottom: 20px;
+  
 }
 
 .hero {
   text-align: center;
-  padding: 10px 30px;
   background-color: #7dddf5;
   color: #020202;
 
 }
-
-
 </style>
