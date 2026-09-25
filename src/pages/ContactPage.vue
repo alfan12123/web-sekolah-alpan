@@ -18,7 +18,7 @@
           <span>📍</span>
           <div>
             <h3>Alamat</h3>
-            <p>parken blok a</p>
+            <p>parken niee bousss</p>
           </div>
         </div>
 
@@ -84,14 +84,14 @@
 <style scoped>
 
 .contact-page {
-  background-color: #8de7f7;
+ background: linear-gradient(to right, #ffffff, #7dddf5);
   padding-bottom: 10px;
 }
 
 .hero {
   text-align: center;
   padding: 50px 20px;
-  background-color: #8de7f7;
+background: linear-gradient(to right, #ffffff, #7dddf5);
 }
 
 .hero h1 {
@@ -112,6 +112,13 @@
 .contact-info,
 .contact-form {
   flex: 1;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgb(0, 0, 0);
+}
+.contact-form {
+
   background-color: rgb(255, 255, 255);
   padding: 30px;
   border-radius: 16px;

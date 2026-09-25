@@ -52,7 +52,7 @@ h1 {
 
 .hero {
   text-align: center;
-  background-color: #7dddf5;
+ background: linear-gradient(to right, #ffffff, #7dddf5);
   color: #020202;
 
 }

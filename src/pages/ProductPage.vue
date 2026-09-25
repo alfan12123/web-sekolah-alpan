@@ -27,6 +27,12 @@ const daftarProduk = [
  </main>
 </template>
 <style scoped>
+
+body {
+ 
+  background-color: #7dddf5;
+}
+ 
 .grid {
  display: flex;
  gap: 16px;
@@ -36,8 +42,9 @@ const daftarProduk = [
  h2.hero {
  text-align: center;
   padding: 10px ;
-  background-color: #7dddf5;
+  background: linear-gradient(to right, #ffffff, #7dddf5);
   color: #020202;
+ 
  
 } 
 </style>

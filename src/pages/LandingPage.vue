@@ -98,7 +98,7 @@ button:hover {
   padding: 20px;
   width: 300px;
   text-align: center;
-  box-shadow: 0 4px 6px rgb(97, 237, 255);
+  box-shadow: 0 4px 6px rgb(0, 0, 0);
  transition: transform 0.3s ease, box-shadow 0.3s ease;
  
 }
